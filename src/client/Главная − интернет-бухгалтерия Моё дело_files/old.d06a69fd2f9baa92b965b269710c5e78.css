@@ -1,0 +1,264 @@
+.sberbankAccounting {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.sberbankAccounting body {
+  background-size: cover;
+  background-image: url(c9d99170635c13b509eebb924c364a6d.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100%;
+  position: relative;
+}
+.sberbankAccounting .contentWrapper {
+  padding-bottom: 90px;
+}
+.sberbankAccounting .headContent {
+  padding-bottom: 0;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  background: transparent;
+}
+.sberbankAccounting .mdHeader-head-requisitesComponent .mdHeader-head-componentTitle:hover a {
+  background-position: -52px -16px;
+}
+.sberbankAccounting .mdHeader-head-requisitesComponent a {
+  background-position: -33px -161px;
+}
+.sberbankAccounting .mdHeader-head-logoutComponent a.mdHeader-head-logoutLink {
+  color: white;
+}
+.sberbankAccounting .mdHeader.mdHeader-head {
+  background-color: #1B991B;
+}
+.sberbankAccounting .mdHeader-head-firmInfoOutsourceComponent i {
+  border-top-color: white;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-firmInfoOutsourceComponent .mdHeader-head-componentTitle:after {
+  background-color: #1B991B;
+  -webkit-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-firmInfoOutsourceComponent .mdHeader-head-componentTitle.active:after {
+  background-color: white;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-component .mdHeader-head-componentTitle:hover {
+  background-color: white;
+  color: #404040;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-component .mdHeader-head-componentTitle:hover a.mdHeader-head-logoutLink {
+  color: #404040;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-component.mdHeader-head-firmInfoOutsourceComponent:hover .mdHeader-head-componentTitle {
+  background-color: #1B991B;
+  color: white;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-component .mdHeader-head-componentTitle {
+  -webkit-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  color: white;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-left {
+  overflow: visible;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-left .mdHeader-head-logo {
+  background: none;
+  text-decoration: none;
+  font-size: 15px;
+  width: 185px;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-left .mdHeader-head-logo:before {
+  content: '\41C\43E\44F\411\443\445\433\430\43B\442\435\440\438\44F';
+  color: white;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-left .mdHeader-head-logo:after {
+  margin-left: 8px;
+  content: '\41E\43D\43B\430\439\43D';
+  color: white;
+  font-weight: bold;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-left .mdHeader-head-logo + .mdHeader-head-customBlock .mdHeader-head-componentTitle {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.sberbankAccounting .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-left .mdHeader-head-logo + .mdHeader-head-customBlock .mdHeader-head-componentTitle:hover a {
+  color: #404040;
+}
+.sberbankAccounting .mdHeader.mdHeader-underHead {
+  width: 960px;
+  margin: 0 auto;
+  padding-left: 25px;
+  padding-right: 25px;
+  background: #FFF;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+.sberbankAccounting .mdHeader.navbar {
+  padding-left: 25px;
+  padding-right: 25px;
+  background: #FFF;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  border-radius: 0;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .active > .navbar-sub-nav {
+  margin: 0 auto;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav {
+  background-color: #1B991B;
+  padding-left: 3px;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .navbar-item {
+  border-radius: 4px 4px 0 0;
+  margin-top: 3px;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .navbar-item.sberbankLight.navbar-item--support {
+  top: 5px;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .navbar-item.sberbankLight.navbar-item--support .supportItem-icon:before {
+  line-height: normal !important;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .navbar-item:hover {
+  background-color: white;
+  border-radius: 4px 4px 0 0;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .navbar-item:hover > a {
+  color: #1B991B !important;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .navbar-item:hover > a.firmmain_menu_item {
+  background-position: -68px -141px;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .navbar-item > a {
+  color: white;
+  line-height: 35px;
+  background-position: -44px -109px;
+  padding-bottom: 2px;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .navbar-item .firmmain_menu_item {
+  position: relative;
+  top: -2px;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .active {
+  background-color: white;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .active > a {
+  color: #1B991B !important;
+}
+.sberbankAccounting .mdHeader.navbar .navbar-nav .active > a.firmmain_menu_item {
+  background-position: -68px -141px;
+}
+.sberbankAccounting .mdHeader-footer-leftBlock .mdHeader-footer-leftBlock__years {
+  display: none !important;
+}
+.sberbankAccounting .mdHeader.mdHeader-footer {
+  border-top: none;
+}
+.sberbankAccounting .mdHeader.mdHeader-footer .mdHeader-footer-content .mdHeader-footer-logo {
+  background: none;
+  text-decoration: none;
+  font-size: 13px;
+  font-style: normal;
+  position: relative;
+}
+.sberbankAccounting .mdHeader.mdHeader-footer .mdHeader-footer-content .mdHeader-footer-logo:before {
+  content: '\41C\43E\44F\411\443\445\433\430\43B\442\435\440\438\44F';
+  color: #1B991B;
+}
+.sberbankAccounting .mdHeader.mdHeader-footer .mdHeader-footer-content .mdHeader-footer-logo:after {
+  position: absolute;
+  left: 0;
+  top: 15px;
+  content: '\41E\43D\43B\430\439\43D';
+  color: #828486;
+  font-weight: bold;
+}
+.sberbankAccounting .mdHeader.mdHeader-footer {
+  margin-top: 0;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: white;
+}
+.sberbankAccounting .mdHeader.mdHeader-footer .mdHeader-footer-content {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+.sberbankAccounting .pageContent {
+  background: white;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 40px;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+.sberbankAccounting .empty_block {
+  width: 960px;
+  background: white;
+  padding: 0 25px;
+  margin: 0 auto;
+}
+.sberbankAccounting .main-content {
+  min-height: inherit;
+}
+.sberbankAccounting .pageWrapper {
+  background: none;
+}
+.sberbankAccounting .sberbank__hidden {
+  display: none !important;
+}
+.sberbankAccounting--outsource .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-left .mdHeader-head-logo {
+  width: 115px;
+}
+.sberbankAccounting--outsource .mdHeader.mdHeader-head .mdHeader-head-content .mdHeader-head-left .mdHeader-head-logo:after {
+  content: '';
+}
+.sberbankAccounting--outsource .mdHeader.mdHeader-footer .mdHeader-footer-content .mdHeader-footer-logo:after {
+  content: '';
+}
+.sberbankAccounting .mdName,
+.sberbankAccounting .sberbank--hidden {
+  display: none;
+}
+.sberbankAccounting .stockPromoPage__examplePage {
+  background: url(1410192c7ea8a9b25240dbe3db8ae2a6.jpg) no-repeat;
+  padding-top: 244px;
+}
+.sberbankAccounting .stockPromoPage__examplePage.stockPromoPage__examplePage--2 {
+  background: url(60ffd2d61d564004ca36cafcc010656d.jpg) no-repeat;
+}
+.sberbankAccounting .stockPromoPage__examplePage > img {
+  display: none;
+}
+.sberbankAccounting .document-wrapper .document-wrapper__header {
+  width: 960px;
+  margin: 0 auto;
+  padding: 0 25px;
+}
+.sberbankAccounting .document-wrapper .document-wrapper__header.fixed {
+  width: 100%;
+  padding: 0;
+}
+.sberbankAccounting .document-wrapper .document-wrapper__content {
+  margin: 0 auto;
+  width: 1010px;
+  display: block;
+}
+.sberbankAccounting .document-wrapper .document-wrapper__content .documentForm {
+  background: #FFF;
+  width: 960px;
+  padding: 15px 25px 0;
+  margin-top: 0;
+}
+.sberbankAccounting .document-wrapper .document-wrapper__footer {
+  padding-bottom: 30px;
+  width: 1010px;
+  margin: 0 auto;
+}
+.sberbankAccounting .document-wrapper .document-wrapper__footer.fixed {
+  position: static;
+}

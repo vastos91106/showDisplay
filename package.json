@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "startServer": "node src/server/index.js",
-    "startClient": "parcel src/client/index.html"
+    "startClient": "parcel src/client/index.html",
+    "buildClient":"parcel build src/client/index.js --out-dir build/output"
   },
   "dependencies": {
     "websocket": "^1.0.25"
