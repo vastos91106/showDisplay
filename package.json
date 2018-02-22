@@ -1,0 +1,15 @@
+{
+  "name": "showDisplay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vastos91106/showDisplay.git",
+  "author": "DEV\\natalenko <vast-vast@ya.ru>",
+  "license": "MIT",
+  "scripts": {
+    "startServer": "node src/server/index.js",
+    "startClient": "parcel src/client/index.html"
+  },
+  "dependencies": {
+    "websocket": "^1.0.25"
+  }
+}
